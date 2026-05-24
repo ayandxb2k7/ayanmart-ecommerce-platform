@@ -56,6 +56,7 @@ user@ayanmart.com
 user123
 ```
 
-## Why this project matters
-
-This project demonstrates end-to-end full stack development including authentication, database design, backend APIs, protected routes, order processing and admin functionality.
+Created by 
+Ayan Khan
+Computer science Student
+BITS Pilani Dubai campus
